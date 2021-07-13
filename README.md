@@ -1,6 +1,12 @@
-# Organization-Service-Booking-System
+# Organization Service Booking System
+![Organization-Service-Booking-System](https://socialify.git.ci/samir-0711/Organization-Service-Booking-System/image?description=1&descriptionEditable=GUI%20Based%20Software%20and%20Database%20using%20NetBeans%2C%20Java%20Swing%20and%0AMySQL&font=Raleway&forks=1&issues=1&language=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
 
-Steps to Run Project
+
+## Flow of System
+![Flow of our Project via Image](https://user-images.githubusercontent.com/68433936/125448755-7567b183-8dd1-49b5-8576-7f026cabab7a.png)
+
+
+## Steps to Run Project
 
 step 1: Java JDK Installation (prefered jdk-12.0.2)
 
